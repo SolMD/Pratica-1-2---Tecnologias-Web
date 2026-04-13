@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pratica-12
 =======
 🧩 Requisitos Funcionais
@@ -31,4 +31,4 @@ Aplicação executável localmente.
 📊 Critérios de Avaliação
 
 A avaliação será realizada com base na rubrica disponibilizada na atividade, a qual estabelece os critérios e os níveis de desempenho considerados na correção.
->>>>>>> ae87cf21a13e9a1cbbf535f8990c9be3be4015ad
+
