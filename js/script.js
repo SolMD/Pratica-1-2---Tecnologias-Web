@@ -1,6 +1,5 @@
 let usuarios = JSON.parse(localStorage.getItem("usuarios")) || [];
 
-/* CADASTRO */
 const form = document.getElementById("formCadastro");
 
 if (form) {
@@ -40,7 +39,6 @@ if (form) {
     });
 }
 
-/* LISTAGEM */
 const lista = document.getElementById("lista");
 
 if (lista) {
@@ -67,7 +65,6 @@ function renderizarLista() {
     });
 }
 
-/* REMOVER */
 function remover(id) {
     usuarios = usuarios.filter(user => user.id !== id);
 

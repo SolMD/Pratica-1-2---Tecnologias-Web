@@ -10,7 +10,6 @@ body {
     color: #333;
 }
 
-/* NAV */
 nav {
     background-color: #111111;
     padding: 15px;
@@ -28,7 +27,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* CONTAINER */
 .container {
     max-width: 500px;
     margin: 40px auto;
@@ -38,12 +36,10 @@ nav a:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-/* TEXT */
 .center {
     text-align: center;
 }
 
-/* FORM */
 form input {
     width: 100%;
     padding: 10px;
@@ -52,7 +48,6 @@ form input {
     border-radius: 6px;
 }
 
-/* BUTTON */
 button {
     width: 100%;
     padding: 10px;
@@ -67,7 +62,6 @@ button:hover {
     background-color: #000000;
 }
 
-/* LIST */
 ul {
     list-style: none;
     margin-top: 20px;
@@ -83,7 +77,6 @@ li {
     align-items: center;
 }
 
-/* DELETE BUTTON */
 li button {
     width: auto;
     padding: 5px 10px;
@@ -94,14 +87,12 @@ li button:hover {
     background-color: #922b21;
 }
 
-/* MESSAGE */
 #mensagem {
     margin-top: 10px;
     text-align: center;
     font-weight: bold;
 }
 
-/* RESPONSIVE */
 @media (max-width: 600px) {
     .container {
         margin: 20px;
