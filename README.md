@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pratica-12
 =======
 🧩 Requisitos Funcionais
